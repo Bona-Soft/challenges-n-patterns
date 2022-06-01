@@ -1,0 +1,12 @@
+F:\BonaIT\Test\FastTest\BIT.DataStructure\bin\Debug\net6.0\BIT.DataStructure.deps.json
+F:\BonaIT\Test\FastTest\BIT.DataStructure\bin\Debug\net6.0\BIT.DataStructure.dll
+F:\BonaIT\Test\FastTest\BIT.DataStructure\bin\Debug\net6.0\ref\BIT.DataStructure.dll
+F:\BonaIT\Test\FastTest\BIT.DataStructure\bin\Debug\net6.0\BIT.DataStructure.pdb
+F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.csproj.AssemblyReference.cache
+F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.AssemblyInfoInputs.cache
+F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.AssemblyInfo.cs
+F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.csproj.CoreCompileInputs.cache
+F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.dll
+F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\ref\BIT.DataStructure.dll
+F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.pdb

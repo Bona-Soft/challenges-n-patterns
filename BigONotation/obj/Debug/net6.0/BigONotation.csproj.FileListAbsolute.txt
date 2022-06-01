@@ -1,0 +1,12 @@
+F:\BonaIT\Test\FastTest\BigONotation\bin\Debug\net6.0\BigONotation.deps.json
+F:\BonaIT\Test\FastTest\BigONotation\bin\Debug\net6.0\BigONotation.dll
+F:\BonaIT\Test\FastTest\BigONotation\bin\Debug\net6.0\ref\BigONotation.dll
+F:\BonaIT\Test\FastTest\BigONotation\bin\Debug\net6.0\BigONotation.pdb
+F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.csproj.AssemblyReference.cache
+F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.GeneratedMSBuildEditorConfig.editorconfig
+F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.AssemblyInfoInputs.cache
+F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.AssemblyInfo.cs
+F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.csproj.CoreCompileInputs.cache
+F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.dll
+F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\ref\BigONotation.dll
+F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.pdb

@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ManualTest/1.0.0": {
+        "dependencies": {
+          "BIT.Algorithms.Challenges": "1.0.0",
+          "BIT.Patterns.Factory": "1.0.0",
+          "BIT.Patterns.Singleton": "1.0.0",
+          "BIT.Patterns.Strategy.Context": "1.0.0",
+          "BIT.Patterns.Strategy.Delegates": "1.0.0"
+        },
+        "runtime": {
+          "ManualTest.dll": {}
+        }
+      },
+      "BIT.Algorithms.Challenges/1.0.0": {
+        "runtime": {
+          "BIT.Algorithms.Challenges.dll": {}
+        }
+      },
+      "BIT.Patterns.Factory/1.0.0": {
+        "runtime": {
+          "BIT.Patterns.Factory.dll": {}
+        }
+      },
+      "BIT.Patterns.Singleton/1.0.0": {
+        "runtime": {
+          "BIT.Patterns.Singleton.dll": {}
+        }
+      },
+      "BIT.Patterns.Strategy.Context/1.0.0": {
+        "runtime": {
+          "BIT.Patterns.Strategy.Context.dll": {}
+        }
+      },
+      "BIT.Patterns.Strategy.Delegates/1.0.0": {
+        "runtime": {
+          "BIT.Patterns.Strategy.Delegates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManualTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BIT.Algorithms.Challenges/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BIT.Patterns.Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BIT.Patterns.Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BIT.Patterns.Strategy.Context/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BIT.Patterns.Strategy.Delegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

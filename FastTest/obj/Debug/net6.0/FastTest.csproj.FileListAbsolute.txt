@@ -1,0 +1,15 @@
+F:\BonaIT\Test\FastTest\FastTest\bin\Debug\net6.0\FastTest.exe
+F:\BonaIT\Test\FastTest\FastTest\bin\Debug\net6.0\FastTest.deps.json
+F:\BonaIT\Test\FastTest\FastTest\bin\Debug\net6.0\FastTest.runtimeconfig.json
+F:\BonaIT\Test\FastTest\FastTest\bin\Debug\net6.0\FastTest.dll
+F:\BonaIT\Test\FastTest\FastTest\bin\Debug\net6.0\ref\FastTest.dll
+F:\BonaIT\Test\FastTest\FastTest\bin\Debug\net6.0\FastTest.pdb
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\FastTest.csproj.AssemblyReference.cache
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\FastTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\FastTest.AssemblyInfoInputs.cache
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\FastTest.AssemblyInfo.cs
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\FastTest.csproj.CoreCompileInputs.cache
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\FastTest.dll
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\ref\FastTest.dll
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\FastTest.pdb
+F:\BonaIT\Test\FastTest\FastTest\obj\Debug\net6.0\FastTest.genruntimeconfig.cache

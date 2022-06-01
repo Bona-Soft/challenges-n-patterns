@@ -1,0 +1,12 @@
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.csproj.AssemblyReference.cache
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.GeneratedMSBuildEditorConfig.editorconfig
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.AssemblyInfoInputs.cache
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.AssemblyInfo.cs
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.csproj.CoreCompileInputs.cache
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\bin\Debug\net6.0\BIT.Algorithms.Challenges.deps.json
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\bin\Debug\net6.0\BIT.Algorithms.Challenges.dll
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\bin\Debug\net6.0\ref\BIT.Algorithms.Challenges.dll
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\bin\Debug\net6.0\BIT.Algorithms.Challenges.pdb
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.dll
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\ref\BIT.Algorithms.Challenges.dll
+F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.pdb

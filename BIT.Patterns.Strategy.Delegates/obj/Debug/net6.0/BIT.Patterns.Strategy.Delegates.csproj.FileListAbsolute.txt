@@ -1,0 +1,12 @@
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\bin\Debug\net6.0\BIT.Patterns.Strategy.Delegates.deps.json
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\bin\Debug\net6.0\BIT.Patterns.Strategy.Delegates.dll
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\bin\Debug\net6.0\ref\BIT.Patterns.Strategy.Delegates.dll
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\bin\Debug\net6.0\BIT.Patterns.Strategy.Delegates.pdb
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.csproj.AssemblyReference.cache
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.AssemblyInfoInputs.cache
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.AssemblyInfo.cs
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.csproj.CoreCompileInputs.cache
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.dll
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\ref\BIT.Patterns.Strategy.Delegates.dll
+F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.pdb

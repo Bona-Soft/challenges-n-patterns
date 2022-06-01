@@ -1,0 +1,11 @@
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\bin\Debug\net6.0\BIT.Patterns.Factory.deps.json
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\bin\Debug\net6.0\BIT.Patterns.Factory.dll
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\bin\Debug\net6.0\ref\BIT.Patterns.Factory.dll
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\bin\Debug\net6.0\BIT.Patterns.Factory.pdb
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.GeneratedMSBuildEditorConfig.editorconfig
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.AssemblyInfoInputs.cache
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.AssemblyInfo.cs
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.csproj.CoreCompileInputs.cache
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.dll
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\ref\BIT.Patterns.Factory.dll
+F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.pdb
