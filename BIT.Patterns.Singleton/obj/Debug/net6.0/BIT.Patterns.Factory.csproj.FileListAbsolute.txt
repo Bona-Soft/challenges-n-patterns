@@ -9,3 +9,14 @@ F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Fac
 F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.dll
 F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\ref\BIT.Patterns.Factory.dll
 F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\bin\Debug\net6.0\BIT.Patterns.Factory.deps.json
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\bin\Debug\net6.0\BIT.Patterns.Factory.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\bin\Debug\net6.0\ref\BIT.Patterns.Factory.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\bin\Debug\net6.0\BIT.Patterns.Factory.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.AssemblyInfoInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.AssemblyInfo.cs
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.csproj.CoreCompileInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\obj\Debug\net6.0\ref\BIT.Patterns.Factory.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton\obj\Debug\net6.0\BIT.Patterns.Factory.pdb

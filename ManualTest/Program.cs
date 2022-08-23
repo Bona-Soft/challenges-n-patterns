@@ -2,6 +2,7 @@
 
 using BIT.Algorithms.Challenges;
 using BIT.Patterns.Singleton;
+using CliCode.Challenge.Solutions.Arrays;
 using ManualTest;
 
 public class Program
@@ -15,15 +16,17 @@ public class Program
 
         Console.WriteLine("__________________________________________________________");
 
-        var paginate = LRU.PaginateExample(4, 10, new int[] { 1, 2, 3, 2, 5, 3, 4, 5, 8, 9});
+        //      var paginate = LRU.PaginateExample(4, 10, new int[] { 1, 2, 3, 2, 5, 3, 4, 5, 8, 9});
 
-        var str = "";
-        foreach(var n in paginate.Item2)
-		{
-            str += n.ToString() + ", ";
-        }
+        //      var str = "";
+        //      foreach(var n in paginate.Item2)
+        //{
+        //          str += n.ToString() + ", ";
+        //      }
 
-        Console.WriteLine($"paginated faults: {paginate.Item1}. State: {str}");
+        //      Console.WriteLine($"paginated faults: {paginate.Item1}. State: {str}");
+
+        SolutionExample1_A.Main();
 
         Console.WriteLine("__________________________________________________________");
         Console.WriteLine("Ending Manual Test");

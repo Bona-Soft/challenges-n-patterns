@@ -9,3 +9,15 @@ F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Stra
 F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.dll
 F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy\obj\Debug\net6.0\ref\BIT.Patterns.Strategy.Context.dll
 F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\bin\Debug\net6.0\BIT.Patterns.Strategy.Context.deps.json
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\bin\Debug\net6.0\BIT.Patterns.Strategy.Context.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\bin\Debug\net6.0\ref\BIT.Patterns.Strategy.Context.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\bin\Debug\net6.0\BIT.Patterns.Strategy.Context.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.csproj.AssemblyReference.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.AssemblyInfoInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.AssemblyInfo.cs
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.csproj.CoreCompileInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\obj\Debug\net6.0\ref\BIT.Patterns.Strategy.Context.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy\obj\Debug\net6.0\BIT.Patterns.Strategy.Context.pdb

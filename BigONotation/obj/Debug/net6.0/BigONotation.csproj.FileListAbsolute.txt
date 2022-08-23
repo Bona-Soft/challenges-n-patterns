@@ -10,3 +10,14 @@ F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.csproj.CoreCo
 F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.dll
 F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\ref\BigONotation.dll
 F:\BonaIT\Test\FastTest\BigONotation\obj\Debug\net6.0\BigONotation.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\bin\Debug\net6.0\BigONotation.deps.json
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\bin\Debug\net6.0\BigONotation.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\bin\Debug\net6.0\ref\BigONotation.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\bin\Debug\net6.0\BigONotation.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\obj\Debug\net6.0\BigONotation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\obj\Debug\net6.0\BigONotation.AssemblyInfoInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\obj\Debug\net6.0\BigONotation.AssemblyInfo.cs
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\obj\Debug\net6.0\BigONotation.csproj.CoreCompileInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\obj\Debug\net6.0\BigONotation.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\obj\Debug\net6.0\ref\BigONotation.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BigONotation\obj\Debug\net6.0\BigONotation.pdb

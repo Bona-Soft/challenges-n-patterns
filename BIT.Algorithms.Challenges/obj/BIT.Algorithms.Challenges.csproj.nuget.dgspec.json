@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\BonaIT\\Test\\FastTest\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj": {}
+    "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj": {}
   },
   "projects": {
-    "F:\\BonaIT\\Test\\FastTest\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj": {
+    "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BonaIT\\Test\\FastTest\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj",
+        "projectUniqueName": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj",
         "projectName": "BIT.Algorithms.Challenges",
-        "projectPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj",
+        "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj",
         "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-        "outputPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Algorithms.Challenges\\obj\\",
+        "outputPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Algorithms.Challenges\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

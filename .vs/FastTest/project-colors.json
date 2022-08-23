@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9eaf8b1-1886-4a81-9010-2fa81b8c6987": {
+      "ProjectGuid": "d9eaf8b1-1886-4a81-9010-2fa81b8c6987",
+      "DisplayName": "BIT.DataStructure",
+      "ColorIndex": 0
+    },
+    "8824a7fe-ad3a-47d6-a764-e26d777838b8": {
+      "ProjectGuid": "8824a7fe-ad3a-47d6-a764-e26d777838b8",
+      "DisplayName": "CliCode.Arrays",
+      "ColorIndex": 1
+    },
+    "f90405ef-4434-4fb4-be56-e976381f35e0": {
+      "ProjectGuid": "f90405ef-4434-4fb4-be56-e976381f35e0",
+      "DisplayName": "ManualTest",
+      "ColorIndex": 2
+    },
+    "6b71bd98-57ec-4d0f-afb4-626ecfaeb787": {
+      "ProjectGuid": "6b71bd98-57ec-4d0f-afb4-626ecfaeb787",
+      "DisplayName": "CliCode.Challenge.Array",
+      "ColorIndex": 3
+    },
+    "47dc6123-38c9-4b87-ad7b-6ef90845ba7c": {
+      "ProjectGuid": "47dc6123-38c9-4b87-ad7b-6ef90845ba7c",
+      "DisplayName": "BIT.Algorithms.Challenges",
+      "ColorIndex": 4
+    },
+    "95ea3dd4-553b-44ee-b36f-4e8fef9dc6ff": {
+      "ProjectGuid": "95ea3dd4-553b-44ee-b36f-4e8fef9dc6ff",
+      "DisplayName": "Clicode.Test.Arrays",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e93d3ca0-1705-4b73-a284-b5ee728b11c1": {
+      "ProjectGuid": "e93d3ca0-1705-4b73-a284-b5ee728b11c1",
+      "DisplayName": "CliCode.Challenge.Arrays",
+      "ColorIndex": 6
+    },
+    "93de3c41-3b4b-4e62-8986-00a20e83a42d": {
+      "ProjectGuid": "93de3c41-3b4b-4e62-8986-00a20e83a42d",
+      "DisplayName": "Arrays",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

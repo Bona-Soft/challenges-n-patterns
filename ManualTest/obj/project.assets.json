@@ -51,6 +51,16 @@
         "runtime": {
           "bin/placeholder/BIT.Patterns.Strategy.Delegates.dll": {}
         }
+      },
+      "CliCode.Challenge.Arrays/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CliCode.Challenge.Arrays.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CliCode.Challenge.Arrays.dll": {}
+        }
       }
     }
   },
@@ -79,6 +89,11 @@
       "type": "project",
       "path": "../BIT.Patterns.Strategy.Delegates/BIT.Patterns.Strategy.Delegates.csproj",
       "msbuildProject": "../BIT.Patterns.Strategy.Delegates/BIT.Patterns.Strategy.Delegates.csproj"
+    },
+    "CliCode.Challenge.Arrays/1.0.0": {
+      "type": "project",
+      "path": "../Arrays/CliCode.Challenge.Arrays/CliCode.Challenge.Arrays.csproj",
+      "msbuildProject": "../Arrays/CliCode.Challenge.Arrays/CliCode.Challenge.Arrays.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -87,23 +102,29 @@
       "BIT.Patterns.Factory >= 1.0.0",
       "BIT.Patterns.Singleton >= 1.0.0",
       "BIT.Patterns.Strategy.Context >= 1.0.0",
-      "BIT.Patterns.Strategy.Delegates >= 1.0.0"
+      "BIT.Patterns.Strategy.Delegates >= 1.0.0",
+      "CliCode.Challenge.Arrays >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marti\\.nuget\\packages\\": {}
+    "C:\\Users\\Marti\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\BonaIT\\Test\\FastTest\\ManualTest\\ManualTest.csproj",
+      "projectUniqueName": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\ManualTest\\ManualTest.csproj",
       "projectName": "ManualTest",
-      "projectPath": "F:\\BonaIT\\Test\\FastTest\\ManualTest\\ManualTest.csproj",
+      "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\ManualTest\\ManualTest.csproj",
       "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-      "outputPath": "F:\\BonaIT\\Test\\FastTest\\ManualTest\\obj\\",
+      "outputPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\ManualTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -118,20 +139,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\BonaIT\\Test\\FastTest\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj": {
-              "projectPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj"
+            "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\Arrays\\CliCode.Challenge.Arrays\\CliCode.Challenge.Arrays.csproj": {
+              "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\Arrays\\CliCode.Challenge.Arrays\\CliCode.Challenge.Arrays.csproj"
             },
-            "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Singleton.NotThreadSafe\\BIT.Patterns.Singleton.csproj": {
-              "projectPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Singleton.NotThreadSafe\\BIT.Patterns.Singleton.csproj"
+            "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj": {
+              "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Algorithms.Challenges\\BIT.Algorithms.Challenges.csproj"
             },
-            "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Singleton\\BIT.Patterns.Factory.csproj": {
-              "projectPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Singleton\\BIT.Patterns.Factory.csproj"
+            "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Singleton.NotThreadSafe\\BIT.Patterns.Singleton.csproj": {
+              "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Singleton.NotThreadSafe\\BIT.Patterns.Singleton.csproj"
             },
-            "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy.Delegates\\BIT.Patterns.Strategy.Delegates.csproj": {
-              "projectPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy.Delegates\\BIT.Patterns.Strategy.Delegates.csproj"
+            "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Singleton\\BIT.Patterns.Factory.csproj": {
+              "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Singleton\\BIT.Patterns.Factory.csproj"
             },
-            "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj": {
-              "projectPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj"
+            "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy.Delegates\\BIT.Patterns.Strategy.Delegates.csproj": {
+              "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy.Delegates\\BIT.Patterns.Strategy.Delegates.csproj"
+            },
+            "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj": {
+              "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj"
             }
           }
         }

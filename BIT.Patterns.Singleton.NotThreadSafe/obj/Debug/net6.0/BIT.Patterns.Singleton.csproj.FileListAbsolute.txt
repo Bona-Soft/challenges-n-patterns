@@ -10,3 +10,15 @@ F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BI
 F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\ref\BIT.Patterns.Singleton.dll
 F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.pdb
 F:\BonaIT\Test\FastTest\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.csproj.AssemblyReference.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\bin\Debug\net6.0\BIT.Patterns.Singleton.deps.json
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\bin\Debug\net6.0\BIT.Patterns.Singleton.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\bin\Debug\net6.0\ref\BIT.Patterns.Singleton.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\bin\Debug\net6.0\BIT.Patterns.Singleton.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.csproj.AssemblyReference.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.AssemblyInfoInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.AssemblyInfo.cs
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.csproj.CoreCompileInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\ref\BIT.Patterns.Singleton.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Singleton.NotThreadSafe\obj\Debug\net6.0\BIT.Patterns.Singleton.pdb

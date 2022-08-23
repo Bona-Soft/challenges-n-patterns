@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "88nG02vo8QOalnQGaxEJunYjelZzW0yZ6fNRDjEaPkDVsFTdS3YVQVVyOIpfTNJXmyJEGtd8APPA+dzWMzyK2g==",
+  "dgSpecHash": "+RHWGPn2TfXHVEB/CDqlIsja8tYaquAoJvXBpdQtEjpSwdaxjp9me0iGT8/qpRREDBSQ4OtquEYy3plkAQ8ewg==",
   "success": true,
-  "projectFilePath": "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Singleton.NotThreadSafe\\BIT.Patterns.Singleton.csproj",
+  "projectFilePath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Singleton.NotThreadSafe\\BIT.Patterns.Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

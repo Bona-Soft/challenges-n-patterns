@@ -12,7 +12,8 @@
           "BIT.Patterns.Factory": "1.0.0",
           "BIT.Patterns.Singleton": "1.0.0",
           "BIT.Patterns.Strategy.Context": "1.0.0",
-          "BIT.Patterns.Strategy.Delegates": "1.0.0"
+          "BIT.Patterns.Strategy.Delegates": "1.0.0",
+          "CliCode.Challenge.Arrays": "1.0.0"
         },
         "runtime": {
           "ManualTest.dll": {}
@@ -41,6 +42,11 @@
       "BIT.Patterns.Strategy.Delegates/1.0.0": {
         "runtime": {
           "BIT.Patterns.Strategy.Delegates.dll": {}
+        }
+      },
+      "CliCode.Challenge.Arrays/1.0.0": {
+        "runtime": {
+          "CliCode.Challenge.Arrays.dll": {}
         }
       }
     }
@@ -72,6 +78,11 @@
       "sha512": ""
     },
     "BIT.Patterns.Strategy.Delegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CliCode.Challenge.Arrays/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

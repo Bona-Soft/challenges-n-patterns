@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj": {}
+    "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj": {}
   },
   "projects": {
-    "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj": {
+    "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj",
+        "projectUniqueName": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj",
         "projectName": "BIT.Patterns.Strategy.Context",
-        "projectPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj",
+        "projectPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy\\BIT.Patterns.Strategy.Context.csproj",
         "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-        "outputPath": "F:\\BonaIT\\Test\\FastTest\\BIT.Patterns.Strategy\\obj\\",
+        "outputPath": "F:\\Bona Soft\\- Challenges\\challenges-n-patterns\\BIT.Patterns.Strategy\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

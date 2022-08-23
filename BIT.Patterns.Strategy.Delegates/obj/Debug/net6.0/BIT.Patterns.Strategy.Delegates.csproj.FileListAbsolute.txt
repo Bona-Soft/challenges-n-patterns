@@ -10,3 +10,15 @@ F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Pat
 F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.dll
 F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\ref\BIT.Patterns.Strategy.Delegates.dll
 F:\BonaIT\Test\FastTest\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\bin\Debug\net6.0\BIT.Patterns.Strategy.Delegates.deps.json
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\bin\Debug\net6.0\BIT.Patterns.Strategy.Delegates.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\bin\Debug\net6.0\ref\BIT.Patterns.Strategy.Delegates.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\bin\Debug\net6.0\BIT.Patterns.Strategy.Delegates.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.csproj.AssemblyReference.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.AssemblyInfoInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.AssemblyInfo.cs
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.csproj.CoreCompileInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\ref\BIT.Patterns.Strategy.Delegates.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Patterns.Strategy.Delegates\obj\Debug\net6.0\BIT.Patterns.Strategy.Delegates.pdb

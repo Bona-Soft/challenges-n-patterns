@@ -1,0 +1,11 @@
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\bin\Debug\net6.0\CliCode.Challenge.Arrays.deps.json
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\bin\Debug\net6.0\CliCode.Challenge.Arrays.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\bin\Debug\net6.0\ref\CliCode.Challenge.Arrays.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\bin\Debug\net6.0\CliCode.Challenge.Arrays.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\obj\Debug\net6.0\CliCode.Challenge.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\obj\Debug\net6.0\CliCode.Challenge.Arrays.AssemblyInfoInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\obj\Debug\net6.0\CliCode.Challenge.Arrays.AssemblyInfo.cs
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\obj\Debug\net6.0\CliCode.Challenge.Arrays.csproj.CoreCompileInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\obj\Debug\net6.0\CliCode.Challenge.Arrays.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\obj\Debug\net6.0\ref\CliCode.Challenge.Arrays.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\Arrays\CliCode.Challenge.Arrays\obj\Debug\net6.0\CliCode.Challenge.Arrays.pdb

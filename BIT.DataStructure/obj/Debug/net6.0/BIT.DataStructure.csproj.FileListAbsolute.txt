@@ -10,3 +10,14 @@ F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.csp
 F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.dll
 F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\ref\BIT.DataStructure.dll
 F:\BonaIT\Test\FastTest\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\bin\Debug\net6.0\BIT.DataStructure.deps.json
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\bin\Debug\net6.0\BIT.DataStructure.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\bin\Debug\net6.0\ref\BIT.DataStructure.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\bin\Debug\net6.0\BIT.DataStructure.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.AssemblyInfoInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.AssemblyInfo.cs
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.csproj.CoreCompileInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\obj\Debug\net6.0\ref\BIT.DataStructure.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.DataStructure\obj\Debug\net6.0\BIT.DataStructure.pdb

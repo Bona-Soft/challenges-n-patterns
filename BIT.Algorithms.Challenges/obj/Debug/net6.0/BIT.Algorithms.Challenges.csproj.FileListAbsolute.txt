@@ -10,3 +10,14 @@ F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\bin\Debug\net6.0\BIT.Algorithm
 F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.dll
 F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\ref\BIT.Algorithms.Challenges.dll
 F:\BonaIT\Test\FastTest\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.AssemblyInfoInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.AssemblyInfo.cs
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.csproj.CoreCompileInputs.cache
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\obj\Debug\net6.0\ref\BIT.Algorithms.Challenges.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\obj\Debug\net6.0\BIT.Algorithms.Challenges.pdb
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\bin\Debug\net6.0\BIT.Algorithms.Challenges.deps.json
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\bin\Debug\net6.0\BIT.Algorithms.Challenges.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\bin\Debug\net6.0\ref\BIT.Algorithms.Challenges.dll
+F:\Bona Soft\- Challenges\challenges-n-patterns\BIT.Algorithms.Challenges\bin\Debug\net6.0\BIT.Algorithms.Challenges.pdb

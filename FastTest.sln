@@ -7,31 +7,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patterns", "Patterns", "{F8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{AB18B951-8D7B-4888-9EF7-49A9D25483F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT.Patterns.Strategy.Context", "BIT.Patterns.Strategy\BIT.Patterns.Strategy.Context.csproj", "{3E4E5C3F-AC53-46E7-ACE5-A9986388407E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIT.Patterns.Strategy.Context", "BIT.Patterns.Strategy\BIT.Patterns.Strategy.Context.csproj", "{3E4E5C3F-AC53-46E7-ACE5-A9986388407E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT.Patterns.Strategy.Delegates", "BIT.Patterns.Strategy.Delegates\BIT.Patterns.Strategy.Delegates.csproj", "{987568AA-7C0A-45F0-8751-4AA9247191BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIT.Patterns.Strategy.Delegates", "BIT.Patterns.Strategy.Delegates\BIT.Patterns.Strategy.Delegates.csproj", "{987568AA-7C0A-45F0-8751-4AA9247191BC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Singleton", "Singleton", "{AB06B3B1-F642-4DF6-9D3D-44299B92448E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT.Patterns.Singleton", "BIT.Patterns.Singleton.NotThreadSafe\BIT.Patterns.Singleton.csproj", "{218C696F-4CED-4B50-BEC3-3E8109CDD8CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIT.Patterns.Singleton", "BIT.Patterns.Singleton.NotThreadSafe\BIT.Patterns.Singleton.csproj", "{218C696F-4CED-4B50-BEC3-3E8109CDD8CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualTest", "ManualTest\ManualTest.csproj", "{F90405EF-4434-4FB4-BE56-E976381F35E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManualTest", "ManualTest\ManualTest.csproj", "{F90405EF-4434-4FB4-BE56-E976381F35E0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory", "Factory", "{54C2AAA0-D9A0-46E8-A7C4-ABDB8869AD6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT.Patterns.Factory", "BIT.Patterns.Singleton\BIT.Patterns.Factory.csproj", "{574E46E9-092B-4BB0-821D-8C8AF8713F1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIT.Patterns.Factory", "BIT.Patterns.Singleton\BIT.Patterns.Factory.csproj", "{574E46E9-092B-4BB0-821D-8C8AF8713F1F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructure", "DataStructure", "{832DB1F4-454F-4051-A7A3-05BB281AE738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT.DataStructure", "BIT.DataStructure\BIT.DataStructure.csproj", "{D9EAF8B1-1886-4A81-9010-2FA81B8C6987}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIT.DataStructure", "BIT.DataStructure\BIT.DataStructure.csproj", "{D9EAF8B1-1886-4A81-9010-2FA81B8C6987}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BigONotation", "BigONotation", "{4BB59DEC-52C1-4735-8774-AE2A6F1F929E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigONotation", "BigONotation\BigONotation.csproj", "{B7E65D09-C8B1-4B12-89A5-1CB725A9F2AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigONotation", "BigONotation\BigONotation.csproj", "{B7E65D09-C8B1-4B12-89A5-1CB725A9F2AD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{FC709C9E-68F9-46C6-8BB8-17AC7096E2BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIT.Algorithms.Challenges", "BIT.Algorithms.Challenges\BIT.Algorithms.Challenges.csproj", "{47DC6123-38C9-4B87-AD7B-6EF90845BA7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIT.Algorithms.Challenges", "BIT.Algorithms.Challenges\BIT.Algorithms.Challenges.csproj", "{47DC6123-38C9-4B87-AD7B-6EF90845BA7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{93DE3C41-3B4B-4E62-8986-00A20E83A42D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CliCode.Challenge.Arrays", "Arrays\CliCode.Challenge.Arrays\CliCode.Challenge.Arrays.csproj", "{E93D3CA0-1705-4B73-A284-B5EE728B11C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +75,10 @@ Global
 		{47DC6123-38C9-4B87-AD7B-6EF90845BA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47DC6123-38C9-4B87-AD7B-6EF90845BA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47DC6123-38C9-4B87-AD7B-6EF90845BA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93D3CA0-1705-4B73-A284-B5EE728B11C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93D3CA0-1705-4B73-A284-B5EE728B11C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93D3CA0-1705-4B73-A284-B5EE728B11C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93D3CA0-1705-4B73-A284-B5EE728B11C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -89,6 +97,7 @@ Global
 		{B7E65D09-C8B1-4B12-89A5-1CB725A9F2AD} = {4BB59DEC-52C1-4735-8774-AE2A6F1F929E}
 		{FC709C9E-68F9-46C6-8BB8-17AC7096E2BA} = {F8AFC535-E0E4-47D1-AA60-14E27DEE29CC}
 		{47DC6123-38C9-4B87-AD7B-6EF90845BA7C} = {FC709C9E-68F9-46C6-8BB8-17AC7096E2BA}
+		{E93D3CA0-1705-4B73-A284-B5EE728B11C1} = {93DE3C41-3B4B-4E62-8986-00A20E83A42D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D15924DE-D3F2-4152-A2FC-1D8CC536323C}
